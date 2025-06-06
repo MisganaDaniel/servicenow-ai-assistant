@@ -1,0 +1,5 @@
+Case Management:
+Case Management allows for structured and efficient handling of customer issues.
+
+Knowledge Management:
+Knowledge Management provides users and staff with access to relevant articles and information to resolve issues effectively.
