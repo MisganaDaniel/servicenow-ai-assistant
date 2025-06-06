@@ -1,0 +1,5 @@
+Incident Management:
+Incident Management aims to restore normal service operation as quickly as possible and minimize the adverse impact on business operations.
+
+Change Management:
+Change Management ensures that standardized methods and procedures are used for efficient and prompt handling of all changes.
